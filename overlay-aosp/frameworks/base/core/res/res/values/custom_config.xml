@@ -20,4 +20,9 @@
      <!-- Whether devices suports in-display fingerprint when screen is off -->
     <bool name="config_supportsScreenOffUdfps">true</bool>
 
+     <!-- Ignore post running notifications for selected apps -->
+    <string-array name="config_postNotificationIgnoredApps" translatable="false">
+     <item>com.oneplus.camera</item>
+    </string-array>
+
 </resources>
