@@ -6,4 +6,9 @@
 <resources>
     <!-- The bottom margin of the keyguard security container -->
     <dimen name="kg_security_container_min_bottom_margin">625px</dimen>
+
+    <!-- Recognizing fingerprint animation -->
+    <dimen name="udfps_animation_size">176dp</dimen>
+    <dimen name="udfps_animation_offset">34dp</dimen>
+     
 </resources>
